@@ -1,6 +1,33 @@
 2026.03.31
 
 * https://chatgpt.com/c/69cc32c4-c5fc-8330-b59f-226a554b22a2
+
+# PROMPT:
+
+I’m looking for summer study programs in Spain for my daughter. She is a third-year undergraduate student in accounting at a U.S. college, a U.S. citizen, and an English speaker who would also like to improve her Spanish. She wants to spend 1 to 3 months in Spain this summer taking classes.
+
+Please recommend programs that are a strong match for her profile. Prioritize:
+
+    business, accounting, economics, finance, or Spanish language courses
+    programs welcoming international/U.S. students
+    options with English-taught classes or Spanish classes for beginners
+    programs lasting 4 to 12 weeks
+
+For each recommendation, include:
+
+    program name and location
+    subject area
+    dates and duration
+    language of instruction
+    eligibility requirements
+    estimated tuition and housing costs
+    whether academic credit is available
+    whether a visa is required for a U.S. citizen
+
+----------------
+
+
+# RESULTS:
   
 I checked current **official 2026 pages**. I did **not** find a Spain summer program explicitly labeled **accounting**; the strongest matches are **business, economics, finance, international business, marketing, and Spanish-language study**. For a U.S. junior in accounting who speaks English and wants to improve Spanish, these are the best fits I found. ([CIEE][1])
 
