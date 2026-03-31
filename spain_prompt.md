@@ -1,7 +1,11 @@
 2026.03.31
 
 I’m looking for summer study programs in Spain for my daughter. 
-She is a third-year undergraduate student in accounting at a U.S. college, a U.S. citizen, and an English speaker who would also like to improve her Spanish. 
+She is 
+- a third-year undergraduate student in accounting at a U.S. college,
+- a U.S. citizen, and
+- an English speaker who would also like to improve her Spanish.
+  
 She wants to spend 1 to 3 months in Spain this summer taking classes.
 Please recommend programs that are a strong match for her profile. 
 
