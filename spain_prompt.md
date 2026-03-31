@@ -1,10 +1,10 @@
 2026.03.31
 
-I’m looking for summer study programs in Spain for my daughter. 
+I’m looking for summer study programs in FRANCE for my daughter. 
 She is 
 - a third-year undergraduate student in accounting at a U.S. college,
 - a U.S. citizen, and
-- an English speaker who would also like to improve her Spanish.
+- an English speaker who would also like to improve her FRENCH.
   
 She wants to spend 1 to 3 months in Spain this summer taking classes.
 Please recommend programs that are a strong match for her profile. 
@@ -25,3 +25,6 @@ estimated tuition and housing costs
 whether academic credit is available
 whether a visa is required for a U.S. citizen
 ```
+
+Please build a table for easy comparison of all options. 
+Add columns with the deadline date and URL where we can go to start the application.
