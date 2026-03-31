@@ -1,7 +1,9 @@
 2026.03.31
 
+# Spain Perplexity
 
-
+* [prompt](https://github.com/fkhafizov/study_abroad/blob/main/spain_prompt.md)
+  
 Here's an updated comparison table with Application Deadline and Program URL columns added for easy reference. Deadlines are based on typical 2026 summer program cycles from prior details; confirm directly as they may shift. [ie](https://www.ie.edu/ie-summer-school/university/finance-fundamentals-course/)
 
 ## Program Comparison
