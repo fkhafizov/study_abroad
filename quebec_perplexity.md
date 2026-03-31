@@ -1,3 +1,7 @@
+2026.03.31
+
+* https://www.perplexity.ai/search/im-looking-for-summer-study-pr-ieMBio5tS9G6rUStbtqaHQ
+
 **HEC Montréal's Business French Summer School in Quebec is a top match for your daughter, combining business terminology with French language improvement for English speakers at beginner to advanced levels.** **This 4-week program welcomes U.S. undergraduates, offers credits, and aligns with her accounting interests through professional French focus.** **U.S. citizens need no visa for short stays in Canada (under 6 months); an eTA may be required for air travel.** [francaisaffaires-immersion.hec](https://francaisaffaires-immersion.hec.ca/en/program/)
 
 ## Program Comparison
