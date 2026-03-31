@@ -1,5 +1,9 @@
 # study_abroad 2026.03.31
 
+
+* https://fkhafizov.github.io/lte_demos/
+* https://chatgpt.com/c/69cc32c4-c5fc-8330-b59f-226a554b22a2
+
 ```
 
 …or create a new repository on the command line
