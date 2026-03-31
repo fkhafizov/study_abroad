@@ -108,7 +108,73 @@ One important timing point: **CIEE’s Summer 2026 deadline is April 1, 2026**, 
 
 If you want, I can narrow this to the **best 3 programs by budget**, or the **best ones that are most likely to transfer back for credit to her U.S. college**.
 
+```
 [1]: https://www.ciee.org/go-abroad/college-study-abroad/programs/spain/barcelona/summer-business-culture "Summer Business + Culture | Barcelona | College Study Abroad | CIEE"
 [2]: https://www.upf.edu/web/barcelonasummerschool?utm_source=chatgpt.com "Barcelona International Summer School"
 [3]: https://cursosinternacionales.usal.es/en/spanish-courses-salamanca-university-spain?utm_source=chatgpt.com "Spanish language courses in Spain | University of Salamanca"
 [4]: https://travel.state.gov/en/international-travel/travel-advisories/spain.html "Spain Travel Advisory | Travel.State.gov"
+
+```
+
+
+-------------
+
+# BETTER PROMPT
+
+**Better prompt**
+
+I’m looking for **summer study programs in Spain** for my daughter. She is a **third-year undergraduate student in accounting at a U.S. college**, a **U.S. citizen**, and an **English speaker** who would also like to improve her **Spanish**. She wants to spend **1 to 3 months in Spain this summer** taking classes.
+
+Please recommend programs that are a strong match for her profile. Prioritize:
+
+* **business, accounting, economics, finance, or Spanish language** courses
+* programs welcoming **international/U.S. students**
+* options with **English-taught classes** or **Spanish classes for beginners**
+* programs lasting **4 to 12 weeks**
+
+For each recommendation, include:
+
+1. program name and location
+2. subject area
+3. dates and duration
+4. language of instruction
+5. eligibility requirements
+6. estimated tuition and housing costs
+7. whether academic credit is available
+8. whether a visa is required for a U.S. citizen
+
+What you were missing:
+
+* whether you want **accounting/business courses** specifically, or just any class in Spain
+* whether **credit transfer** matters
+* whether **budget** matters
+* whether she prefers **full immersion in Spanish** or mainly **English instruction**
+* whether she wants a **university program**, **study abroad provider**, or **language school**
+* whether she prefers certain cities such as **Madrid, Barcelona, Valencia, Salamanca, or Seville**
+
+The phrase **“third degree college student”** is better written as **“third-year college student”** or **“junior in college.”**
+
+# ANSWER TO A BETTER PROMPT
+
+
+**Recommended summer programs in Spain match your daughter's profile as a U.S. undergraduate accounting student seeking business-related or Spanish courses for 4-12 weeks.** **These options prioritize English-taught classes or beginner Spanish, welcome international students, and offer academic credit.** **All are suitable for U.S. citizens staying under 90 days, requiring no visa but registration with Spanish authorities upon arrival.** [ie](https://www.ie.edu/ie-summer-school/university/finance-fundamentals-course/)
+
+### IE University Finance Fundamentals
+**Located in Madrid, this program focuses on finance, including financial accounting, corporate finance, valuation, and markets—ideal for an accounting student.** **It runs June 29 to July 10, 2026 (2 weeks, ~80 hours), taught fully in English.** **Eligibility includes undergraduate students; requires transcripts, CV, and video assessment.** [ie](https://www.ie.edu/ie-summer-school/university/finance-fundamentals-course/)
+**Tuition is €3,500 (early bird before March 27, 2026); housing costs ~€800-1,200 extra (not included).** **Offers 3 ECTS credits (6 for two modules), transferable pending home institution approval.** [ie](https://www.ie.edu/ie-summer-school/university/finance-fundamentals-course/)
+
+### UAM Summer School of Economics and Business
+**In Madrid at Universidad Autónoma de Madrid, it covers economics and business topics like financial management, global marketing, climate change economics, and business negotiation.** **Dates are June 29 to July 24, 2026 (4 weeks), with all classes in English for international students.** **Open to undergraduates worldwide; specific eligibility details via application (check site for transcripts/GPA).**
+**Estimated tuition €1,500-2,500 (based on similar programs; confirm on site); housing ~€600-1,000.** **Provides academic credits (UAM courses, transferable).** [uamsseb](https://uamsseb.education)
+
+### CIEE Barcelona Business + Culture
+**Based in Barcelona, this program emphasizes business, economics, management, marketing, and culture, aligning with accounting interests.** **Flexible durations: 4 weeks (e.g., June term), 8 weeks (June+July), or 12 weeks (May-July 2026); English instruction.** **Requires sophomore status, 2.5 GPA minimum; welcomes U.S./international undergrads.** [barcelonasae](https://www.barcelonasae.com/programs/sis-summer-program)
+**Costs: ~$5,995-$10,995 including tuition/housing (varies by term, e.g., 6 weeks ~$8,995).** **Full academic credit available toward major/minor.** [studyabroad.morehouse](https://studyabroad.morehouse.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=23711)
+
+### Barcelona SAE Academic Center Summer
+**In Barcelona, offers business, economics, finance-related courses in English/Spanish options, suitable for beginners improving Spanish.** **Sessions: May-June (7 weeks), June-July (8 weeks), or full May-July (11 weeks) in 2026.** **For undergraduates; open to internationals/U.S. students (application deadline March 1, 2026).** [barcelonasae](https://www.barcelonasae.com/programs/sis-summer-program)
+**Total cost $5,595-$10,995 per session, includes tuition and housing.** **Academic credit granted, counts toward degree.** [barcelonasae](https://www.barcelonasae.com/programs/sis-summer-program)
+
+
+
+
