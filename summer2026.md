@@ -12,6 +12,78 @@ She is a third degree college student studying accounting in USA. She is a US ci
 She wants to go to Spain for 1-3 months to study. 
 Can you suggest a class for her that she could take this summer?
 
+
+# BETTER PROMPTS
+
+Here is a cleaner and stronger version of your prompt:
+
+**Improved prompt**
+
+My daughter is a **third-year college student in the U.S. majoring in accounting**. She is a **U.S. citizen**, speaks **English**, and is interested in **learning Spanish**. She would like to study in **Spain during the summer** for about **1 to 3 months**.
+
+Can you suggest suitable **summer programs, classes, or short-term study options in Spain** for her? Please focus on programs that:
+
+* are open to **U.S. undergraduate students**
+* offer instruction in **English** or are suitable for students with **beginner Spanish**
+* are a good fit for an **accounting or business student**
+* last between **1 and 3 months**
+* are available **this summer**
+
+Please also mention:
+
+* the **city and university/program name**
+* **program length**
+* whether the courses are in **English, Spanish, or both**
+* approximate **cost**
+* whether a **visa** is needed
+* whether the program may offer **transferable academic credit**
+
+A slightly better version, if you want more targeted recommendations:
+
+**Better prompt**
+
+I’m looking for **summer study programs in Spain** for my daughter. She is a **third-year undergraduate student in accounting at a U.S. college**, a **U.S. citizen**, and an **English speaker** who would also like to improve her **Spanish**. She wants to spend **1 to 3 months in Spain this summer** taking classes.
+
+Please recommend programs that are a strong match for her profile. Prioritize:
+
+* **business, accounting, economics, finance, or Spanish language** courses
+* programs welcoming **international/U.S. students**
+* options with **English-taught classes** or **Spanish classes for beginners**
+* programs lasting **4 to 12 weeks**
+
+For each recommendation, include:
+
+1. program name and location
+2. subject area
+3. dates and duration
+4. language of instruction
+5. eligibility requirements
+6. estimated tuition and housing costs
+7. whether academic credit is available
+8. whether a visa is required for a U.S. citizen
+
+What you were missing:
+
+* whether you want **accounting/business courses** specifically, or just any class in Spain
+* whether **credit transfer** matters
+* whether **budget** matters
+* whether she prefers **full immersion in Spanish** or mainly **English instruction**
+* whether she wants a **university program**, **study abroad provider**, or **language school**
+* whether she prefers certain cities such as **Madrid, Barcelona, Valencia, Salamanca, or Seville**
+
+The phrase **“third degree college student”** is better written as **“third-year college student”** or **“junior in college.”**
+
+Best short version:
+
+**Compact version**
+
+My daughter is a third-year U.S. college student majoring in accounting. She is a U.S. citizen, speaks English, and wants to improve her Spanish. She would like to study in Spain for 1–3 months this summer. Can you recommend good summer programs or classes for her, especially in accounting, business, economics, finance, or Spanish? Please include program name, city, duration, language of instruction, cost, visa needs, and whether academic credit is available.
+
+If you want, I can also turn this into a **very strong research prompt for ChatGPT** that will produce better results.
+
+
+
+-------------
 # A
 
 Yes. For her profile, the **best-fit option** looks like:
